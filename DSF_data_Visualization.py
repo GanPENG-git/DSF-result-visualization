@@ -22,7 +22,7 @@ group2 = grouped.get_group('B8')
 group3 = grouped.get_group('C6')
 group4 = grouped.get_group('D8')
 
-# make data
+# make data. Generate function for displaying lines as needed.
 x1 = group1['Temperature']
 y1 = group1['Derivative']
 x2 = group2['Temperature']
